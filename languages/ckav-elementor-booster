@@ -1,0 +1,317 @@
+# Copyright (C) 2021 C-Kav
+# This file is distributed under the same license as the C-Kav Elementor Booster package.
+msgid ""
+msgstr ""
+"Project-Id-Version: C-Kav Elementor Booster 1.0.1\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/ckav-elementor-booster\n"
+"POT-Creation-Date: 2021-02-25 12:09:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: ckav-elementor-booster.php:264
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:262
+#: wp-build/trunk/ckav-elementor-booster.php:262
+#. translators: 1: Plugin name 2: Elementor
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "C-Kav Elementor Booster"
+msgstr ""
+
+#: ckav-elementor-booster.php:266 ckav-elementor-booster.php:290
+#: temp/bakup.php:164 temp/bakup.php:180
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:264
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:288
+#: wp-build/trunk/ckav-elementor-booster.php:264
+#: wp-build/trunk/ckav-elementor-booster.php:288
+msgid "Elementor"
+msgstr ""
+
+#: ckav-elementor-booster.php:288 ckav-elementor-booster.php:313
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:286
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:311
+#: wp-build/trunk/ckav-elementor-booster.php:286
+#: wp-build/trunk/ckav-elementor-booster.php:311
+#. translators: 1: Plugin name 2: Elementor 3: Required Elementor version
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ckav-elementor-booster.php:315 temp/bakup.php:197
+#: wp-build/tags/1.0.0/ckav-elementor-booster.php:313
+#: wp-build/trunk/ckav-elementor-booster.php:313
+msgid "PHP"
+msgstr ""
+
+#: controls/ckav-imgmask.php:98 temp/ckav-imgmask-backup.php:121
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:98
+#: wp-build/trunk/controls/ckav-imgmask.php:98
+msgid "Apply image mask?"
+msgstr ""
+
+#: controls/ckav-imgmask.php:100 controls/ckav-stickyheader.php:83
+#: controls/ckav-stickyheader.php:114 controls/ckav-stickyheader.php:151
+#: controls/ckav-stickyheader.php:169 temp/ckav-imgmask-backup.php:123
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:100
+#: wp-build/trunk/controls/ckav-imgmask.php:100
+msgid "Yes"
+msgstr ""
+
+#: controls/ckav-imgmask.php:101 controls/ckav-stickyheader.php:84
+#: controls/ckav-stickyheader.php:115 controls/ckav-stickyheader.php:152
+#: controls/ckav-stickyheader.php:170 temp/ckav-imgmask-backup.php:124
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:101
+#: wp-build/trunk/controls/ckav-imgmask.php:101
+msgid "No"
+msgstr ""
+
+#: controls/ckav-imgmask.php:112 temp/ckav-imgmask-backup.php:135
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:112
+#: wp-build/trunk/controls/ckav-imgmask.php:112
+msgid "Choose Image"
+msgstr ""
+
+#: controls/ckav-imgmask.php:129 temp/ckav-imgmask-backup.php:152
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:129
+#: wp-build/trunk/controls/ckav-imgmask.php:129
+msgid "Position"
+msgstr ""
+
+#: controls/ckav-imgmask.php:133 temp/ckav-imgmask-backup.php:156
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:133
+#: wp-build/trunk/controls/ckav-imgmask.php:133
+msgid "Center Left"
+msgstr ""
+
+#: controls/ckav-imgmask.php:134 temp/ckav-imgmask-backup.php:157
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:134
+#: wp-build/trunk/controls/ckav-imgmask.php:134
+msgid "Center Right"
+msgstr ""
+
+#: controls/ckav-imgmask.php:135 temp/ckav-imgmask-backup.php:158
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:135
+#: wp-build/trunk/controls/ckav-imgmask.php:135
+msgid "Center Center"
+msgstr ""
+
+#: controls/ckav-imgmask.php:136 temp/ckav-imgmask-backup.php:159
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:136
+#: wp-build/trunk/controls/ckav-imgmask.php:136
+msgid "Top Center"
+msgstr ""
+
+#: controls/ckav-imgmask.php:137 temp/ckav-imgmask-backup.php:160
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:137
+#: wp-build/trunk/controls/ckav-imgmask.php:137
+msgid "Top Left"
+msgstr ""
+
+#: controls/ckav-imgmask.php:138 temp/ckav-imgmask-backup.php:161
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:138
+#: wp-build/trunk/controls/ckav-imgmask.php:138
+msgid "Top Right"
+msgstr ""
+
+#: controls/ckav-imgmask.php:139 temp/ckav-imgmask-backup.php:162
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:139
+#: wp-build/trunk/controls/ckav-imgmask.php:139
+msgid "Bottom Center"
+msgstr ""
+
+#: controls/ckav-imgmask.php:140 temp/ckav-imgmask-backup.php:163
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:140
+#: wp-build/trunk/controls/ckav-imgmask.php:140
+msgid "Bottom Left"
+msgstr ""
+
+#: controls/ckav-imgmask.php:141 temp/ckav-imgmask-backup.php:164
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:141
+#: wp-build/trunk/controls/ckav-imgmask.php:141
+msgid "Bottom Right"
+msgstr ""
+
+#: controls/ckav-imgmask.php:155 controls/ckav-imgmask.php:160
+#: temp/ckav-imgmask-backup.php:178 temp/ckav-imgmask-backup.php:183
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:155
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:160
+#: wp-build/trunk/controls/ckav-imgmask.php:155
+#: wp-build/trunk/controls/ckav-imgmask.php:160
+msgid "Repeat"
+msgstr ""
+
+#: controls/ckav-imgmask.php:159 temp/ckav-imgmask-backup.php:182
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:159
+#: wp-build/trunk/controls/ckav-imgmask.php:159
+msgid "No-repeat"
+msgstr ""
+
+#: controls/ckav-imgmask.php:161 temp/ckav-imgmask-backup.php:184
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:161
+#: wp-build/trunk/controls/ckav-imgmask.php:161
+msgid "Repeat-X"
+msgstr ""
+
+#: controls/ckav-imgmask.php:162 temp/ckav-imgmask-backup.php:185
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:162
+#: wp-build/trunk/controls/ckav-imgmask.php:162
+msgid "Repeat-Y"
+msgstr ""
+
+#: controls/ckav-imgmask.php:176 temp/ckav-imgmask-backup.php:199
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:176
+#: wp-build/trunk/controls/ckav-imgmask.php:176
+msgid "Size"
+msgstr ""
+
+#: controls/ckav-imgmask.php:180 temp/ckav-imgmask-backup.php:203
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:180
+#: wp-build/trunk/controls/ckav-imgmask.php:180
+msgid "Auto"
+msgstr ""
+
+#: controls/ckav-imgmask.php:181 temp/ckav-imgmask-backup.php:204
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:181
+#: wp-build/trunk/controls/ckav-imgmask.php:181
+msgid "Cover"
+msgstr ""
+
+#: controls/ckav-imgmask.php:182 temp/ckav-imgmask-backup.php:205
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:182
+#: wp-build/trunk/controls/ckav-imgmask.php:182
+msgid "Contain"
+msgstr ""
+
+#: controls/ckav-imgmask.php:183 temp/ckav-imgmask-backup.php:206
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:183
+#: wp-build/trunk/controls/ckav-imgmask.php:183
+msgid "Custom"
+msgstr ""
+
+#: controls/ckav-imgmask.php:199 temp/ckav-imgmask-backup.php:222
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:199
+#: wp-build/trunk/controls/ckav-imgmask.php:199
+msgid "Width"
+msgstr ""
+
+#: controls/ckav-imgmask.php:251 controls/ckav-stickyheader.php:327
+#: temp/ckav-imgmask-backup.php:277
+#: wp-build/tags/1.0.0/controls/ckav-imgmask.php:251
+#: wp-build/trunk/controls/ckav-imgmask.php:251
+msgid "Height"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:80
+msgid "Hide on sticky?"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:81
+msgid "Element will hide when sticky effect apply on scroll"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:103
+msgid "CKAV - STICKY HEADER"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:111
+msgid "Enable settings?"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:112
+msgid "All setting effect will not display in editor mode"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:125
+msgid "Enable On"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:131
+msgid "Desktop"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:132
+msgid "Tablet"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:133
+msgid "Mobile"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:139
+msgid "Enable / disable all settings on various devices"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:148
+msgid "Sticky after scroll?"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:149
+msgid "By default header not sticky only apply sticky after scroll"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:166
+msgid "Show on sticky?"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:167
+msgid "By default header hide and only display when sticky effect active"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:212
+msgid "Before scroll"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:222 controls/ckav-stickyheader.php:252
+msgid "Background color"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:223 controls/ckav-stickyheader.php:253
+msgid ""
+"Background color will overwrite default section background when sticky "
+"effect active"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:242
+msgid "After scroll"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:274
+msgid "Top scroll distance"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:298
+msgid "Padding"
+msgstr ""
+
+#: controls/ckav-stickyheader.php:312
+msgid "Margin"
+msgstr ""
+
+#: temp/bakup.php:162
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated"
+msgstr ""
+
+#: temp/bakup.php:178 temp/bakup.php:195
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Ckav Elementor Booster add unique features to enhance elementor builder "
+"experience."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "C-Kav"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://c-kav.com"
+msgstr ""
